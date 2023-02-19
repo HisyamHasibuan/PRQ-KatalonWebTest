@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_password</name>
+   <tag></tag>
+   <elementGuidId>a5fb96f9-e3f7-4bd0-88a5-4d0fdee3a90e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Masukkan sandi anda' and @type = 'password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>440cdd11-0617-4a27-afc9-ec733b83c3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan sandi anda</value>
+      <webElementGuid>2640024b-f84c-4330-8325-75fff2c5bd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>ba475c33-7854-451b-946e-dc1711859b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input border-2 focus:border-secondary</value>
+      <webElementGuid>12893613-12f6-4a87-bb25-86b0ba503e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-100 font-avenir&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3&quot;]/div[@class=&quot;md:h-screen md:w-full
+          bg-white
+          md:col-span-2 md:flex md:justify-center md:items-center&quot;]/div[@class=&quot;p-6 md:p-0 md:w-3/5&quot;]/div[1]/div[2]/div[@class=&quot;form-container&quot;]/div[@class=&quot;grid mt-6&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;input border-2 focus:border-secondary&quot;]</value>
+      <webElementGuid>ad117c5d-9924-48c2-95d3-314c051c87a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>ea44d035-50ed-4f6b-8429-a7250c7b39e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div[2]/div/div/div[2]/div/div[3]/div/input</value>
+      <webElementGuid>c00fc346-fe09-4c17-bb44-70e2ee0b8dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>d133f079-f741-4209-8ae1-cdf03e056613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Masukkan sandi anda' and @type = 'password']</value>
+      <webElementGuid>1c703e13-b1a4-40ee-8672-d8b226e5208f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
